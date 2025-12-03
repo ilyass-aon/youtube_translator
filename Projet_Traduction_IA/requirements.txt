@@ -1,0 +1,8 @@
+yt-dlp
+openai-whisper
+transformers
+torch
+sentencepiece
+sacremoses
+colorama
+customtkinter
