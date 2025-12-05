@@ -1,3 +1,4 @@
+# pour exec sur console locale 
 import os
 import time
 from core.downloader import AudioDownloader

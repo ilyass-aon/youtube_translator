@@ -1,4 +1,4 @@
-# test_step1.py (à supprimer plus tard)
+# test de telechargement et transcription audio
 from core.downloader import AudioDownloader
 from core.transcriber import AudioTranscriber
 
